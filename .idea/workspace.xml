@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb96af29-89fa-4a6b-bdac-021fcf55f34b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/evolutionary.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config-repo/dev/config-repo/evolutionary.properties" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config-repo/evolutionary-dev.properties" afterPath="$PROJECT_DIR$/evolutionary-dev.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config-repo/evolutionary-prod.properties" afterPath="$PROJECT_DIR$/evolutionary-prod.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config-repo/evolutionary-test.properties" afterPath="$PROJECT_DIR$/evolutionary-test.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config-repo/evolutionary.properties" afterPath="$PROJECT_DIR$/evolutionary.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config-repo/prod/config-repo/evolutionary.properties" afterPath="$PROJECT_DIR$/prod/evolutionary.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config-repo/test/config-repo/evolutionary.properties" afterPath="$PROJECT_DIR$/test/evolutionary.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,41 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="evolutionary.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/evolutionary.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app2.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/app2.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="evolutionary-test.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/evolutionary-test.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="evolutionary.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/evolutionary.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -91,11 +53,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="evolutionary.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/evolutionary.properties">
+      <file leaf-file-name="evolutionary-prod.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prod/evolutionary-prod.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evolutionary-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/evolutionary-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/app2-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="true" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app2.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evolutionary-test.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/evolutionary-test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -145,6 +147,7 @@
         <option value="$PROJECT_DIR$/dev/app2/evolutionary.properties" />
         <option value="$PROJECT_DIR$/dev/evolutionary.properties" />
         <option value="$PROJECT_DIR$/dev/app2.properties" />
+        <option value="$PROJECT_DIR$/app2.properties" />
       </list>
     </option>
   </component>
@@ -203,11 +206,6 @@
               <item name="evolutionary-config-center-demo" type="462c0819:PsiDirectoryNode" />
               <item name="prod" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="evolutionary-config-center-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="evolutionary-config-center-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -237,11 +235,11 @@
       <recent name="$PROJECT_DIR$/prod/app1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/dev" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/dev/app2" />
       <recent name="$PROJECT_DIR$/config-repo/test" />
-      <recent name="$PROJECT_DIR$/config-repo/prod" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -353,7 +351,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4963000" />
+    <option name="totallyTimeSpent" value="5017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
@@ -420,22 +418,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/evolutionary-test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evolutionary-test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/evolutionary-prod.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -763,42 +745,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/evolutionary.properties">
+    <entry file="file://$PROJECT_DIR$/test/evolutionary.properties" />
+    <entry file="file://$PROJECT_DIR$/prod/evolutionary.properties" />
+    <entry file="file://$PROJECT_DIR$/dev/app2/evolutionary.properties" />
+    <entry file="file://$PROJECT_DIR$/dev/evolutionary.properties" />
+    <entry file="file://$PROJECT_DIR$/dev/app2.properties" />
+    <entry file="file://$PROJECT_DIR$/dev/app2-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <caret line="0" column="19" lean-forward="true" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/evolutionary.properties">
+    <entry file="file://$PROJECT_DIR$/app2.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/app2/evolutionary.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/evolutionary.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/app2.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
           <folding />
         </state>
       </provider>
